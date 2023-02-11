@@ -154,7 +154,8 @@ def show_row_data(df):
             break
         else:
             print('Sorry! Wrong Input , Pleas Try Agin.')
-
+def bye():
+    print("bye!")
 
 def main():
     while True:
